@@ -7,7 +7,7 @@ I'm a 32 years old humanitarian worker based in Ankara. I'm aspiring to become a
 <a href="https://twitter.com/datawithpython" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/fatih-ilhan-11628177/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning
   - Python
   - Pandas
   - Numpy
