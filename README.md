@@ -10,16 +10,12 @@
 
   ---
 
-  <a href="https://linkedin.com/in/[YourLinkedinUsername]">
+  <a href="https://linkedin.com/in/fatih-ilhan-11628177/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[YourEmailAddress]">
+  <a href="mailto:h.f.ilhan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://[YourWebsiteIfAny].com">
-    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-
 </div>
 
 <br />
