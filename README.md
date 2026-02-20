@@ -49,13 +49,6 @@ I have experience working across the full stack. Here are the technologies I wor
 
 <br />
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seralifatih&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seralifatih&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
 <br />
 
 ---
