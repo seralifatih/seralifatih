@@ -8,16 +8,16 @@
     I enjoy building applications I wish existed.
   </p>
 
-Completed Projects
+**Completed Projects**
 
-*   LoopSignal (closed source) - a GitHub-powered feedback product for indie teams
+*   **LoopSignal** (closed source) - a GitHub-powered feedback product for indie teams
     
-*   [OneRule](https://github.com/seralifatih/OneRule) - Offline Password Manager for Android
+*   [**OneRule**](https://github.com/seralifatih/OneRule) \- Offline Password Manager for Android
     
 
-Ongoing Projects
+**Ongoing Projects**
 
-*   Segment (closed source) - A desktop app designed to help translators with segmentation, translation workflow, and productivity.
+*   **Segment** (closed source) - A desktop app designed to help translators with segmentation, translation workflow, and productivity.
 
 
 
