@@ -10,7 +10,7 @@
 
 **Completed Projects**
 
-*   **LoopSignal** (closed source) - a GitHub-powered feedback product for indie teams
+*   [**LoopSignal**](https://loopsignal.dev/) - a GitHub-powered feedback product for indie teams
     
 *   [**OneRule**](https://github.com/seralifatih/OneRule) \- Offline Password Manager for Android
     
