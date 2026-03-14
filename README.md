@@ -9,16 +9,23 @@
   </p>
 
 **Completed Projects**
-
-*   [**LoopSignal**](https://loopsignal.dev/) - a GitHub-powered feedback product for indie teams
-    
+   
 *   [**OneRule**](https://github.com/seralifatih/OneRule) \- Offline Password Manager for Android
+  
+*   [**ConvertCenter**](https://convertcenter.org) \- Universal converter
+
+*   [**Dharma Theme**](https://dharmaastroloji.com) \- Developed the Wordpress theme for this astrology website
     
 
 **Ongoing Projects**
 
-*   **Segment** (closed source) - A desktop app designed to help translators with segmentation, translation workflow, and productivity.
+*   **Segment** - A desktop app designed to help translators with segmentation, translation workflow, and productivity.
+  
+*   [**LoopSignal**](https://loopsignal.dev/) - a GitHub-powered feedback product for indie teams
 
+*   **Judge Me** - 
+ 
+   
 
 
 
