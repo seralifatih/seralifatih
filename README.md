@@ -18,9 +18,7 @@
     
 
 **Ongoing Projects**
-
-*   **Segment** - A desktop app designed to help translators with segmentation, translation workflow, and productivity.
-  
+ 
 *   [**LoopSignal**](https://loopsignal.dev/) - a GitHub-powered feedback product for indie teams
 
 *   **Judge Me** - 
