@@ -10,16 +10,15 @@
 
 **Completed Projects**
    
+*   [**LoopSignal**](https://loopsignal.dev/) - a GitHub-powered feedback product for indie teams
+
 *   [**OneRule**](https://github.com/seralifatih/OneRule) \- Offline Password Manager for Android
   
 *   [**ConvertCenter**](https://convertcenter.org) \- Universal converter
 
 *   [**Dharma Theme**](https://dharmaastroloji.com) \- Developed the Wordpress theme for this astrology website
     
-
 **Ongoing Projects**
- 
-*   [**LoopSignal**](https://loopsignal.dev/) - a GitHub-powered feedback product for indie teams
 
 *   **Judge Me** - 
  
