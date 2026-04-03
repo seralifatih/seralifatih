@@ -22,7 +22,7 @@
 
 *   [**F1-Versus**](https://f1-versus.com/) \- Settle F1 arguments with data.
 
-*   [**My APIs**]([https://f1-versus.com](https://apify.com/store/categories?search=seralifatih)/) 
+*   [**My APIs**](https://apify.com/store/categories?search=seralifatih) 
     
 **Ongoing Projects**
 
