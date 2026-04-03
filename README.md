@@ -17,6 +17,10 @@
 *   [**ConvertCenter**](https://convertcenter.org) \- Universal converter
 
 *   [**Dharma Theme**](https://dharmaastroloji.com) \- Developed the Wordpress theme for this astrology website
+
+*   [**Formula Pilot**]([https://formulapilot.com)) \- AI Excel & Google Sheets Formula Generator
+
+*   [**F1-Versus**]([(https://f1-versus.com/))) \- Settle F1 arguments with data.
     
 **Ongoing Projects**
 
