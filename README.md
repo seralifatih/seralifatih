@@ -6,21 +6,22 @@
 
 <p>I build the tools I wish existed: data pipelines, comparison engines, and small apps that do one thing well.</p>
 
-**Currently Building**
+## 🔌 APIs & Data Pipelines
+
+* [**Congress Trading Pipelines**](https://apify.com/store/categories?search=seralifatih) — House & Senate trade disclosure scrapers. Structured, deduplicated, ready for analysis. [Source](https://github.com/seralifatih/congress-trading-pipeline)
+* [**All My Actors on Apify →**](https://apify.com/store/categories?search=seralifatih) — 18 production scrapers: e-commerce, crypto, and public-data pipelines.
+
+## 🚀 Products
 
 * [**Comparely**](https://comparely.org) — Tax-aware cost-of-living & net-income comparison across 35 jurisdictions. Next.js + Cloudflare D1/Workers.
-* [**Congress Trading Pipelines**](https://apify.com/store/categories?search=seralifatih) — House & Senate trade disclosure scrapers on Apify. [Source](https://github.com/seralifatih/congress-trading-pipeline)
-* **Judge Me** — AITA-style voting game, built in Flutter.
-
-**Shipped**
-
 * [**F1-Versus**](https://f1-versus.com/) — Settle F1 arguments with data. Driver head-to-head engine, auto-synced after every race.
 * [**LoopSignal**](https://loopsignal.dev/) — GitHub-native public feedback board for indie teams.
 * [**ConvertCenter**](https://convertcenter.org) — Universal unit, text, and developer converter.
 * [**Formula Pilot**](https://formulapilot.com) — AI Excel & Google Sheets formula generator.
 * [**OneRule**](https://github.com/seralifatih/OneRule) — Offline password manager for Android. Open source, Flutter.
-* [**SoundMeter**](https://github.com/seralifatih) — Android decibel meter.
 * [**Dharma Theme**](https://dharmaastroloji.com) — Custom WordPress theme for an astrology publication.
+
+**Building now:** Judge Me — AITA-style voting game, Flutter.
 
 **Stack**
 
