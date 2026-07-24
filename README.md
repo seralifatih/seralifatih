@@ -21,8 +21,6 @@
 * [**OneRule**](https://github.com/seralifatih/OneRule) — Offline password manager for Android. Open source, Flutter.
 * [**Dharma Theme**](https://dharmaastroloji.com) — Custom WordPress theme for an astrology publication.
 
-**Building now:** Judge Me — AITA-style voting game, Flutter.
-
 **Stack**
 
 `Next.js` `TypeScript` `Tailwind` `Cloudflare Workers / D1 / Pages` `Supabase` `Flutter` `Python` `Apify SDK`
