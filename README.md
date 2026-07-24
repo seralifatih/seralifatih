@@ -1,42 +1,38 @@
 <div align="left">
- 
-  # Hi there, I'm Fatih! 👋
 
-  ### 📱 Mobile & 💻 Web Developer
+# Hi there, I'm Fatih! 👋
 
-  <p>
-    I enjoy building applications I wish existed.
-  </p>
+### 📱 Mobile & 💻 Web Developer — building under [Nokta Studio](https://noktastudio.dev)
 
-**Completed Projects**
-   
-*   [**LoopSignal**](https://loopsignal.dev/) - a GitHub-powered feedback product for indie teams
+<p>I build the tools I wish existed: data pipelines, comparison engines, and small apps that do one thing well.</p>
 
-*   [**OneRule**](https://github.com/seralifatih/OneRule) \- Offline Password Manager for Android
-  
-*   [**ConvertCenter**](https://convertcenter.org) \- Universal converter
+**Currently Building**
 
-*   [**Dharma Theme**](https://dharmaastroloji.com) \- Developed the Wordpress theme for this astrology website
+* [**Comparely**](https://comparely.org) — Tax-aware cost-of-living & net-income comparison across 35 jurisdictions. Next.js + Cloudflare D1/Workers.
+* [**Congress Trading Pipelines**](https://apify.com/store/categories?search=seralifatih) — House & Senate trade disclosure scrapers on Apify. [Source](https://github.com/seralifatih/congress-trading-pipeline)
+* **Judge Me** — AITA-style voting game, built in Flutter.
 
-*   [**Formula Pilot**](https://formulapilot.com) \- AI Excel & Google Sheets Formula Generator
+**Shipped**
 
-*   [**F1-Versus**](https://f1-versus.com/) \- Settle F1 arguments with data.
+* [**F1-Versus**](https://f1-versus.com/) — Settle F1 arguments with data. Driver head-to-head engine, auto-synced after every race.
+* [**LoopSignal**](https://loopsignal.dev/) — GitHub-native public feedback board for indie teams.
+* [**ConvertCenter**](https://convertcenter.org) — Universal unit, text, and developer converter.
+* [**Formula Pilot**](https://formulapilot.com) — AI Excel & Google Sheets formula generator.
+* [**OneRule**](https://github.com/seralifatih/OneRule) — Offline password manager for Android. Open source, Flutter.
+* [**SoundMeter**](https://github.com/seralifatih) — Android decibel meter.
+* [**Dharma Theme**](https://dharmaastroloji.com) — Custom WordPress theme for an astrology publication.
 
-*   [**My APIs**](https://apify.com/store/categories?search=seralifatih) 
-    
-**Ongoing Projects**
+**Stack**
 
-*   **Judge Me** - 
- 
-   
+`Next.js` `TypeScript` `Tailwind` `Cloudflare Workers / D1 / Pages` `Supabase` `Flutter` `Python` `Apify SDK`
 
-
+</div>
 
 <div align="center">
   <i>Thanks for visiting my profile! Don't forget to leave a ⭐.</i>
 </div>
-
 <br>
-<a href="https://twitter.com/seralifatih" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+<a href="https://twitter.com/fatihbuilds" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/fatih-ilhan-11628177/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:h.f.ilhan@gmail.com">  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  </a>
+<a href="mailto:h.f.ilhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
