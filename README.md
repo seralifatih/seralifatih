@@ -2,28 +2,34 @@
 
 # Hi there, I'm Fatih! 👋
 
-### 📱 Mobile & 💻 Web Developer — building under [Nokta Studio](https://noktastudio.dev)
+### 📱 Indie app & game developer building under [Nokta Studio](https://noktastudio.dev)
 
-<p>I build the tools I wish existed: data pipelines, comparison engines, and small apps that do one thing well.</p>
+<p>I build small subscription apps and games, test them with tiny ad budgets, and share the real numbers.</p>
 
-## 🔌 APIs & Data Pipelines
+## 📱 Apps & Games
 
-* [**Congress Trading Pipelines**](https://apify.com/store/categories?search=seralifatih) — House & Senate trade disclosure scrapers. Structured, deduplicated, ready for analysis. [Source](https://github.com/seralifatih/congress-trading-pipeline)
-* [**All My Actors on Apify →**](https://apify.com/store/categories?search=seralifatih) — 18 production scrapers: e-commerce, crypto, and public-data pipelines.
+* [**Judge Me: Daily Dilemmas**](https://apps.apple.com/us/app/judge-me-daily-dilemmas/id6824040564) — Everyday drama as a daily dilemma game. Vote, guess how the crowd voted, and get AI verdicts on your own stories. Flutter + Supabase + RevenueCat.
+* [**OurGarage**](https://apps.apple.com/us/app/ourgarage-car-maintenance-log/id6801807059) — Car maintenance reminders with family sharing. iOS.
+* [**Pixel Raid**](https://play.google.com/store/apps/details?id=dev.noktastudio.pixelraid) — Retro arcade game. Android.
+* [**OneRule**](https://github.com/seralifatih/OneRule) — Offline password manager for Android. Open source, Flutter.
 
-## 🚀 Products
+## 🚀 Web Products
 
 * [**Comparely**](https://comparely.org) — Tax-aware cost-of-living & net-income comparison across 35 jurisdictions. Next.js + Cloudflare D1/Workers.
 * [**F1-Versus**](https://f1-versus.com/) — Settle F1 arguments with data. Driver head-to-head engine, auto-synced after every race.
 * [**LoopSignal**](https://loopsignal.dev/) — GitHub-native public feedback board for indie teams.
 * [**ConvertCenter**](https://convertcenter.org) — Universal unit, text, and developer converter.
 * [**Formula Pilot**](https://formulapilot.com) — AI Excel & Google Sheets formula generator.
-* [**OneRule**](https://github.com/seralifatih/OneRule) — Offline password manager for Android. Open source, Flutter.
 * [**Dharma Theme**](https://dharmaastroloji.com) — Custom WordPress theme for an astrology publication.
+
+## 🔌 APIs & Data Pipelines
+
+* [**Congress Trading Pipelines**](https://apify.com/store/categories?search=seralifatih) — House & Senate trade disclosure scrapers. [Source](https://github.com/seralifatih/congress-trading-pipeline)
+* [**All My Actors on Apify →**](https://apify.com/store/categories?search=seralifatih) — 18 production scrapers: e-commerce, crypto, and public-data pipelines.
 
 **Stack**
 
-`Next.js` `TypeScript` `Tailwind` `Cloudflare Workers / D1 / Pages` `Supabase` `Flutter` `Python` `Apify SDK`
+`Flutter` `Supabase` `RevenueCat` `Next.js` `TypeScript` `Tailwind` `Cloudflare Workers / D1 / Pages` `Python` `Apify SDK`
 
 </div>
 
